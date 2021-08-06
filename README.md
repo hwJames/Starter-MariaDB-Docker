@@ -1,13 +1,13 @@
 <br/>
 <h2 align="center">
-Docker-DB
+Docker-MariaDB
 </h2>
 
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/hwJames/Docker-DB.git
+   git clone https://github.com/hwJames/Docker-MariaDB.git
    git pull
    ```
 
