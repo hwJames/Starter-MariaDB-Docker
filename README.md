@@ -11,19 +11,13 @@ Docker-MariaDB
    git pull
    ```
 
-2. Make Directory
-   ```sh
-   mkdir data
-   mkdir initdb.d
-   ```
-
-3. Edit Setting
+2. Edit Setting
    ```sh
    vi .env
    vi docker-compose.yml
    ```
 
-4. Docker Compose Start
+3. Docker Compose Start
    ```sh
    docker-compose up
    ```
