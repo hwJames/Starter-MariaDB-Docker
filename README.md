@@ -1,4 +1,3 @@
-<br/>
 <h2 align="center">
 Docker-MariaDB
 </h2>
